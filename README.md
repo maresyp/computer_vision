@@ -1,2 +1,1 @@
-# psio
-Przetwarzanie sygnałów i obrazów
+# computer vision learning 
